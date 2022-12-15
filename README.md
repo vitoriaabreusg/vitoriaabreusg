@@ -1,8 +1,8 @@
 ## Olá, eu sou a Vitória Abreu!
 
-- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Sou Designer Gráfico e tenho 7 anos de experiência na área, hoje trabalho como freelancer. Fazendo transição de carreira e pretendo trabalhar com Front-End;
+- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Sou Streamer e estudante de Front-End;
 - <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas;
-- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/joy-con.png"> Curto jogos em geral, mas não sou muito fã de zumbis(meus grande infelizmente);
+- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/joy-con.png"> Gosto de ler livros e quadrinhos, assisto filmes de terror e amo jogos de todos os tipos;
 
 <br>
 
