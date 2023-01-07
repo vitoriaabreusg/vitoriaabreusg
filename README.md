@@ -1,8 +1,8 @@
 ## Olá, eu sou a Vitória Abreu!
 
-- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Sou Streamer e estudante de Front-End;
-- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas;
-- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/joy-con.png"> Gosto de ler livros e quadrinhos, assisto filmes de terror e amo jogos de todos os tipos;
+- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Moro em São Paulo, estudei Arquitetura e Urbanismo e estou em transição na area de Tecnologo em Analise e Desenvolvimento de Sistemas. Tenho conhecimento em HTML, CSS, JavaScript e Logica de programação;
+- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Cursando Analise e Desenvolvimento de Sistemas;
+- <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/joy-con.png"> Sou streamer e faço lives de jogos variados, além de jogar, também assisto animes e leio mangás e quadrinhos de super hérois, meu genero de filmes favorito é o terror/suspense;
 
 <br>
 
