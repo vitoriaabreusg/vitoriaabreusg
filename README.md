@@ -19,7 +19,7 @@
   <img align="center" alt="Vitoria-In" height="40" width="40" src="https://img.icons8.com/nolan/344/git.png">
   <img align="center" alt="Vitoria-In" height="40" width="40" src="https://img.icons8.com/nolan/344/github.png">
   <img align="center" alt="logo-vscode" height="40" width="40" src="https://img.icons8.com/nolan/344/visual-studio.png">
-  <img align="right" alt="Vitoria-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/Fj-cgDoXoAYHDxM?format=png&name=small">
+  <img align="right" alt="Vitoria-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/A9SDrxKjPIpOX23Gyw/giphy.gif?cid=790b7611a64ad9e7ff74d6a627c3b04e41764dfd31544486&rid=giphy.gif&ct=g">
 </div>
 
 <br>
