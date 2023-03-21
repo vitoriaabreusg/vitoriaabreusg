@@ -1,4 +1,4 @@
-## Olá, eu sou a Vitória Abreu!
+## Olá, eu sou a Vitória Gonçalves!
 
 - <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/briefcase.png"> Moro em São Paulo, estudei Arquitetura e Urbanismo e estou em transição na área de Tecnólogia. Tenho conhecimento em HTML, CSS, Java Script e Logica de programação;
 - <img align="center" alt="Vitoria-In" height="30" width="30" src="https://img.icons8.com/nolan/344/multiple-devices.png"> Cursando Tecnólogo em Analise e Desenvolvimento de Sistemas;
